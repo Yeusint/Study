@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCT2iWgW5q8t2Vmpjgxl939Pxi2WlNFlLHcxp68yzNz48PHA/TMEluAHrlv9QpVDA31uqStvPH/NMb2zhiZNNw==",
+  "success": true,
+  "projectFilePath": "D:\\code\\Study\\Study\\Study.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yeusint\\.nuget\\packages\\aduskin\\1.1.1.9\\aduskin.1.1.1.9.nupkg.sha512",
+    "C:\\Users\\Yeusint\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yeusint\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yeusint\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yeusint\\.nuget\\packages\\system.management\\4.7.0\\system.management.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yeusint\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yeusint\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
